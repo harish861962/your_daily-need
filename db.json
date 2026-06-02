@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "email": "harishsaini1266@gmail.com",
+      "password": "12345",
+      "phone": "08619627463",
+      "address": "ward no 18 surajgarh ",
+      "name": "harish",
+      "id": "mWDsynts-to"
+    },
+    {
+      "email": "harishsaini1266@gmail.com",
+      "password": "123456",
+      "phone": "08619627463",
+      "address": "ward no 18 surajgarh ",
+      "name": "saini",
+      "id": "hVFFPQBpCWo"
+    }
+  ],
+  "tododata": [
+    {
+      "task": "wertyuiop567890",
+      "id": "phaVBdpFsZ8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
