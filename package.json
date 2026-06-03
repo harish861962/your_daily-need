@@ -1,20 +1,6 @@
+
 {
   "name": "your_daily_need",
-<<<<<<< HEAD
-  "version": "1.0.0",
-  "main": "server.js",
-  "scripts": {
-    "start": "nodemon server.js"
-  },
-  "dependencies": {
-    "cors": "^2.8.6",
-    "express": "^5.2.1",
-    "mongoose": "^9.6.2",
-    "nodemon": "^3.1.14",
-    "react-toastify": "^11.0.5"
-  }
-}
-=======
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -46,4 +32,3 @@
     "vite": "^8.0.1"
   }
 }
->>>>>>> 28c861d997df8845625ffad98f590a1fbd8d4e66
